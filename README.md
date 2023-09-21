@@ -11,6 +11,7 @@ Followed the SOLID principles to ensure that the code was well-designed, modular
 As a result of my efforts, the application is now more robust, efficient, and easier to scale as needed.
 # Using the Application:
 # The Home page
+![Uploading image.png…]()
 
 When accessed, the landing page will come out, and a new user will have to create an account. The next step is to click on the Register button.
 
